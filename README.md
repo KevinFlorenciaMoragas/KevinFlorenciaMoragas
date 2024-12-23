@@ -11,8 +11,8 @@
 
 ## Tecnologías y Habilidades
 
-- **Lenguajes**: Python, JavaScript (Node.js), TypeScript, SQL.
-- **Frameworks**: React, Angular, FastAPI, Django, Express, Flask, Sequelize.
+- **Lenguajes**: Python, JavaScript (Node.js), TypeScript, Java, SQL.
+- **Frameworks**: React, Angular, FastAPI, Springboot, Express, Flask, Sequelize.
 - **Bases de Datos**: MySQL, PostgreSQL, Oracle SQL.
 - **APIs**: RESTful.
 - **Cloud**: Docker.
